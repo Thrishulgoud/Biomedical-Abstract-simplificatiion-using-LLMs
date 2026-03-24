@@ -1,0 +1,29 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# models & datasets (IMPORTANT)
+PLABA_LLM/
+flan-t5-small-medical-simplification/
+
+# large files
+*.csv
+*.safetensors
+*.bin
+
+# temp
+history.json
+users.db
+temp.wav
+result.pdf
+remember_me.jsonvenv/
+__pycache__/
+*.pyc
+.DS_Store
+history.json
+temp.wav
+result.pdf
+users.db
+voice.wav
+.env
